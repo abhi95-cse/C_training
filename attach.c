@@ -19,6 +19,7 @@ j++;
 
     
 }
+full[i]=' \0';
 printf("%s" , full);
 }
     void main()
